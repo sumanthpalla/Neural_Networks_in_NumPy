@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9076e5b8-5378-4e1e-9e6d-f9b7b3694a55)# Neural Networks in NumPy
+# Neural Networks in NumPy
 Applying NN to cats and dogs dataset using NumPy to understand about backpropagation, forward propagation and optimization algorithms. 
 
 
